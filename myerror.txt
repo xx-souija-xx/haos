@@ -1,0 +1,3 @@
+Error encountered while attempting to list repository files:
+
+I wasn't able to retrieve a directory listing from the repository because the available repository-content tool returned an error when asked for the repository root.
