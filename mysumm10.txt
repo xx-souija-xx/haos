@@ -1,0 +1,8 @@
+Repository: xx-souija-xx/haos
+URL: https://github.com/xx-souija-xx/haos
+Default branch: main
+Private: false
+Fork: false
+Archived: false
+Created: 2026-07-05
+Last updated: 2026-10-05
