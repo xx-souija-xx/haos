@@ -1,0 +1,13 @@
+Repository Summary
+
+Repository: haos
+Full name: xx-souija-xx/haos
+URL: https://github.com/xx-souija-xx/haos
+Default branch: main
+Private: No
+Fork: No
+Archived: No
+Created: 2026-07-05
+Last updated: 2026-10-05 22:48:30 UTC
+
+Connected GitHub account: xx-souija-xx
